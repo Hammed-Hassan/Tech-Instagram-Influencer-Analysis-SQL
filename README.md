@@ -18,7 +18,7 @@ The objective is to analyze a tech influencer's Instagram activity data to answe
 - [x] SQL (Structured Query Language): For querying, manipulating, and analyzing data within MySQL Workbench.
 - [x] Data Analysis & Interpretation: The ability to derive meaningful insights and patterns from raw data, and understand what the numbers mean for the business.
 - [x] Database Management (Basic): Understanding how to import data (.sql file) into a database environment (MySQL Workbench) and basic database concepts.
-- [x]Data Visualization (Conceptual/Verbal): While you might not create actual charts in SQL, you'll need to conceptually organize and explain your findings in a way that suggests how they could be visually represented in a presentation.
+- [x] Data Visualization (Conceptual/Verbal): While you might not create actual charts in SQL, you'll need to conceptually organize and explain your findings in a way that suggests how they could be visually represented in a presentation.
 
 **Soft Skills:**
 - [x] Analytical thinking allows for breaking down complex problems to derive actionable insights from data.
