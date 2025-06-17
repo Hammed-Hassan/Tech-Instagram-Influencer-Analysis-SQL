@@ -1,0 +1,1 @@
+select count( distinct post_type) from fact_content; 
