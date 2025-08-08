@@ -1,23 +1,23 @@
 # Insurance Analysis - Power BI
 
 # 
-### Introduction
+### ✅Introduction
 This project serves as a practical demonstration of SQL skills for a social media analytics use case. The objective is to analyze a dataset from a successful social media channel, identify key trends, and derive actionable insights to inform a new client's social media strategy. By answering a series of targeted business questions, this analysis provides a foundation for optimizing content, understanding audience engagement, and measuring overall account performance.
 
 
 # 
-### Problem Statement
+### ✅Problem Statement
 The Social Media Analytics Team at AtliQ is looking to improve the social media strategy for one of their clients. They are using data from a successful channel, Netflix India's Instagram, as a case study. The goal of this project is to use a provided dataset to answer a specific set of questions and, more importantly, to go beyond them to identify key trends and formulate strategic recommendations that can be adapted for a new client.
 
 
 # Methodology
 ### Data Sourcing
 
-### Tools used 
+### ✅Tools used 
 - Database: SQL (MySQL)
 - Visualization & Reporting: The insights derived from the SQL queries will be used to create reports and a presentation for business stakeholders using Power BI. [Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-### Analysis
+### ✅Analysis
 The project involves writing efficient and readable SQL queries to answer a series of business questions. The analysis is divided into three key areas: content performance, account statistics, and audience engagement.
 
 ***Project Questions & SQL Solutions***
@@ -160,7 +160,7 @@ where RN <= 3
 ; 
 ```
 #
-### Key Trends and Data Insights
+### ✅Key Trends and Data Insights
 ### Content Type Performance:
 - Instagram Reels are the top performers for visibility and engagement, driving the highest profile visits and reach.
 - Instagram Images are moderately effective, especially for generating comments.
@@ -176,7 +176,7 @@ where RN <= 3
 - The "Mobile" and "Laptop" categories also show strong engagement
 
 #
-### Recommendations
+### ✅Recommendations
 - Prioritize Reels: Focus on creating more high-quality Reel content to capitalize on its superior performance.
 - Study the May-June Peak: Analyze the content and strategy from this period to identify and replicate what worked best.
 - Boost "Tech Tips": Increase the frequency of "Tech Tips" content, as it strongly resonates with the audience.
@@ -184,7 +184,7 @@ where RN <= 3
 - Maintain Consistency: Implement a steady content schedule to prevent the post-June decline in engagement and growth.
 
 #
-### Conclusiosn
+### ✅Conclusiosn
 - The data analysis reveals a successful content strategy in the first half of the year, driven largely by Instagram Reels and engaging "Tech Tips" content.
 - While the audience is highly engaged, there is a clear opportunity to revitalize momentum by learning from past successes.
 - By focusing on high-performing content formats and topics, the content strategy can be optimized for sustained growth and engagement.
